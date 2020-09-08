@@ -5,11 +5,14 @@
 
 
 ECCV2020 已经结束，官方放出了所有论文：
-ECCV 2020 论文合集下载，分类盘点进行中
+
+[ECCV 2020 论文合集下载，分类盘点进行中](http://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw==&mid=2247485298&idx=1&sn=b63aab38c48baf6491996e286987d5d8&chksm=fad12824cda6a13203b393c15e96e1ad6ec0241a820c7ea537ed5cf52a74531b17df634f3dc8&scene=21#wechat_redirect)
 
 谷歌作为人工智能研究领域工业界的领头羊，其工作是非常值得参考的。
 
-本文汇总其入选 ECCV 2020 Oral 的作品，总计 10 篇。这些论文分布在神经渲染、点云、3D人体重建、3D场景重建、人类行为预测、光流、自监督、6D位姿估计等领域，特别值得一提的是「NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis 」获得最佳论文荣誉提名！其展示效果让人惊艳。
+本文汇总其入选 ECCV 2020 Oral 的作品，总计 10 篇。这些论文分布在神经渲染、点云、3D人体重建、3D场景重建、人类行为预测、光流、自监督、6D位姿估计等领域，
+
+特别值得一提的是「NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis 」获得最佳论文荣誉提名！其展示效果让人惊艳。
 
 ## 最佳论文荣誉提名
 
