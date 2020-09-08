@@ -175,3 +175,15 @@ DeepLab系分割算法向全景分割的演化。
 该文发明了一种生成式潜在纹理对象的方法，用于物体的三维重建，对透明的、反光的、细的物体的重建效果更好。
 
 [视频](https://v.qq.com/x/page/v3143j68keb.html)
+
+### [12].[Neural Design Network: Graphic Layout Generation with Constraints](https://arxiv.org/abs/1912.09421)
+
+作者 | Hsin-Ying Lee, Lu Jiang, Irfan Essa, Phuong B Le, Haifeng Gong, Ming-Hsuan Yang, Weilong Yang
+
+单位 | 谷歌;University of California, Merced;Yonsei University;Georgia Institute of Technology
+
+备注 | ECCV 2020 Spotlight
+
+该文发明了一种称之为神经设计网络的技术，用于在给定图像和文本内容和限定条件时，进行人工化的版面设计。（平面设计师要失业了）
+
+![demo image](Google/s12.png)
