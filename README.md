@@ -1,6 +1,6 @@
 # ECCV2020-Papers
 <div align="center">
-  <img src="resource/52CV.gif" width="600"/>
+  <img src="Google/52CV.gif" width="600"/>
 </div>
 
 - 内容
@@ -15,16 +15,94 @@ ECCV 2020 论文合集下载，分类盘点进行中
 ## 最佳论文荣誉提名
 
 ### [1].NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+
 作者 | Ben Mildenhall、Pratul P. Srinivasan、Matthew Tancik、Jonathan T. Barron、Ravi Ramamoorthi、Ren Ng
+
 单位 | UC 伯克利；谷歌；加州大学圣地亚哥分校
+
 论文 | https://arxiv.org/abs/2003.08934
+
 主页 | https://www.matthewtancik.com/nerf
+
 备注 | ECCV 2020 Oral
+
 解读 | https://zhuanlan.zhihu.com/p/187541908
 
 发明了一种称之为神经辐射场的方法用于场景3D新视野的合成，输入不同视角下拍的图片，合成未出现的视角的图像。
 
 视频（https://v.qq.com/x/page/h3142xsoy0d.html）
+
+### [2].Quaternion Equivariant Capsule Networks for 3D Point Clouds
+
+作者 | Yongheng Zhao, Tolga Birdal, Jan Eric Lenssen, Emanuele Menegatti, Leonidas Guibas, Federico Tombari
+
+单位 | 帕多瓦大学；斯坦福大学；慕尼黑工业大学；多特蒙德工业大学；谷歌
+
+论文 | https://arxiv.org/abs/1912.12098
+
+代码 | https://github.com/tolgabirdal/qecnetworks
+
+主页 | https://tolgabirdal.github.io/qecnetworks/
+
+备注 | ECCV 2020 Oral 
+
+发明了新的3D胶囊网络，用于3D识别与方向估计。
+
+视频（https://v.qq.com/x/page/x3142gektqm.html）
+
+### [3].SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification
+
+作者 | Yida Wang, David Joseph Tan, Nassir Navab, Federico Tombari
+
+单位 | Technische Universit¨at M¨unchen；谷歌
+
+论文 | https://arxiv.org/abs/2008.07358
+
+备注 | ECCV 2020 Oral 
+
+发明了新的用于点云的形状描述，用于点云补全和分类。
+
+![demo image](Google/3.webp)
+
+
+
+
+###
+
+
+###
+
+
+
+###
+
+
+###
+
+
+###
+
+
+
+###
+
+
+
+###
+
+
+
+###
+
+
+
+###
+
+
+
+###
+
+
 
 ![demo image](resource/coco_test_12510.jpg)
 
