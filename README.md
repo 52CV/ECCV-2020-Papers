@@ -3,7 +3,6 @@
   <img src="Google/52CV.gif" width="600"/>
 </div>
 
-- 内容
 
 ECCV2020 已经结束，官方放出了所有论文：
 ECCV 2020 论文合集下载，分类盘点进行中
