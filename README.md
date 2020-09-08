@@ -29,7 +29,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 
 发明了一种称之为神经辐射场的方法用于场景3D新视野的合成，输入不同视角下拍的图片，合成未出现的视角的图像。
 
-[视频]（https://v.qq.com/x/page/h3142xsoy0d.html）
+[视频](https://v.qq.com/x/page/h3142xsoy0d.html)
 
 
 ### [2].Quaternion Equivariant Capsule Networks for 3D Point Clouds
@@ -48,7 +48,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 
 发明了新的3D胶囊网络，用于3D识别与方向估计。
 
-[视频]（https://v.qq.com/x/page/x3142gektqm.html）
+[视频](https://v.qq.com/x/page/x3142gektqm.html)
 
 
 ### [3].SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification
@@ -131,7 +131,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 
 自监督学习+单目6D位姿估计。
 
-[视频]（https://v.qq.com/x/page/x3142wjh1a4.html）
+[视频](https://v.qq.com/x/page/x3142wjh1a4.html)
 
 
 ### [8].What Matters in Unsupervised Optical Flow？
@@ -148,7 +148,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 
 非监督光流估计研究。
 
-[视频]（https://v.qq.com/x/page/n3142izqqd8.html）
+[视频](https://v.qq.com/x/page/n3142izqqd8.html)
 
 
 ### [9].Appearance Consensus Driven Self-Supervised Human Mesh Recovery
@@ -167,7 +167,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 
 表观共识驱动的自监督人体网格修复。
 
-[视频]（https://v.qq.com/x/page/l3142ak2fht.html）
+[视频](https://v.qq.com/x/page/l3142ak2fht.html)
 
 
 ### [10].Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset
