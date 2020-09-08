@@ -29,7 +29,8 @@ ECCV 2020 论文合集下载，分类盘点进行中
 
 发明了一种称之为神经辐射场的方法用于场景3D新视野的合成，输入不同视角下拍的图片，合成未出现的视角的图像。
 
-![视频]（https://v.qq.com/x/page/h3142xsoy0d.html）
+[视频]（https://v.qq.com/x/page/h3142xsoy0d.html）
+
 
 ### [2].Quaternion Equivariant Capsule Networks for 3D Point Clouds
 
@@ -49,6 +50,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 
 [视频]（https://v.qq.com/x/page/x3142gektqm.html）
 
+
 ### [3].SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification
 
 作者 | Yida Wang, David Joseph Tan, Nassir Navab, Federico Tombari
@@ -62,6 +64,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 发明了新的用于点云的形状描述，用于点云补全和分类。
 
 ![demo image](Google/3.png)
+
 
 ### [4].Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction
 
@@ -80,6 +83,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 结合隐式函数与参数模型的3D人体重建。
 
 ![demo image](Google/4.gif)
+
 
 ### [5].CoReNet: Coherent 3D scene reconstruction from a single RGB image
 
@@ -112,6 +116,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 
 ![demo image](Google/6.png)
 
+
 ### [7].Self6D: Self-Supervised Monocular 6D Object Pose Estimation
 
 作者 | Gu Wang, Fabian Manhardt, Jianzhun Shao, Xiangyang Ji, Nassir Navab, Federico Tombari
@@ -128,6 +133,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 
 [视频]（https://v.qq.com/x/page/x3142wjh1a4.html）
 
+
 ### [8].What Matters in Unsupervised Optical Flow？
 
 作者 | Rico Jonschkowski, Austin Stone, Jonathan T. Barron, Ariel Gordon, Kurt Konolige, Anelia Angelova
@@ -143,6 +149,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 非监督光流估计研究。
 
 [视频]（https://v.qq.com/x/page/n3142izqqd8.html）
+
 
 ### [9].Appearance Consensus Driven Self-Supervised Human Mesh Recovery
 
@@ -161,6 +168,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 表观共识驱动的自监督人体网格修复。
 
 [视频]（https://v.qq.com/x/page/l3142ak2fht.html）
+
 
 ### [10].Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset
 
