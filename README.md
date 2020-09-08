@@ -29,7 +29,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 
 发明了一种称之为神经辐射场的方法用于场景3D新视野的合成，输入不同视角下拍的图片，合成未出现的视角的图像。
 
-[视频]（https://v.qq.com/x/page/h3142xsoy0d.html）
+![视频]（https://v.qq.com/x/page/h3142xsoy0d.html）
 
 ### [2].Quaternion Equivariant Capsule Networks for 3D Point Clouds
 
