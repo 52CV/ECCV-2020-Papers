@@ -62,7 +62,7 @@ ECCV 2020 论文合集下载，分类盘点进行中
 
 发明了新的用于点云的形状描述，用于点云补全和分类。
 
-![demo image](Google/3.webp)
+![demo image](Google/3.png)
 
 
 
