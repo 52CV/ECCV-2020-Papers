@@ -1,4 +1,4 @@
-# ECCV2020-Papers
+# ECCV2020-oral-Papers
 <div align="center">
   <img src="Google/52CV.gif" width="600"/>
 </div>
