@@ -81,8 +81,7 @@
 
 ![demo image](Google/p4.png)
 
-### [5].[Continuous Adaptation for Interactive Object Segmentation by Learning from Corrections](https://arxiv.org/abs/1911.12709
-)
+### [5].[Continuous Adaptation for Interactive Object Segmentation by Learning from Corrections](https://arxiv.org/abs/1911.12709)
 
 作者 | Theodora Kontogianni, Michael Gygli, Jasper Uijlings, Vittorio Ferrari
 
@@ -107,7 +106,7 @@
 对人体进行密集2.5D DensePose 和3D表面法向标注是非常昂贵的，该文提出一种从模拟数据经域适应技术进行真人密集姿态估计和表面法向量计算的方法，大幅降低了成本取得了不错的效果。
 
 
-![demo image](Google/96.gif)
+![demo image](Google/p6.gif)
 
 
 
