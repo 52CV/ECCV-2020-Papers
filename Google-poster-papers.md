@@ -116,9 +116,7 @@
 
 单位 | 谷歌
 
-代码 | https://github.com/tensorflow/tpu/tree/master/
-
-models/official/detection
+代码 | https://github.com/tensorflow/tpu/tree/master/models/official/detection
 
 备注 | ECCV 2020
 
