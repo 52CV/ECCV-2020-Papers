@@ -31,4 +31,6 @@ CV君在论文标题中检索了一些热门技术相关的关键词，并与CVP
 
 ### [ECCV 2020 Spotlight 谷歌论文大盘点](https://github.com/52CV/ECCV-2020-Papers/blob/master/Google-spotlight-papers.md)
 
+### [ECCV 2020 Poster 谷歌论文大盘点](https://github.com/52CV/ECCV-2020-Papers/blob/master/Google-poster-papers.md)
+
 Enjoy！
