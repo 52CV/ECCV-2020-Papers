@@ -1,2 +1,4 @@
 
-f == face 序号即论文序号
+f == face 
+t == object tracker
+序号即论文序号
