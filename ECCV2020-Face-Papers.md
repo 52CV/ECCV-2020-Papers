@@ -21,7 +21,7 @@
 
 ![demo image](Image/f1.png)
 
-## [video](https://v.qq.com/x/page/b31496l64v5.html)
+- [video](https://v.qq.com/x/page/b31496l64v5.html)
 
 
 ## 三维密集型人脸对齐
@@ -37,7 +37,7 @@
 
 ![demo image](Image/f2.gif)
 
-[video](链接)
+- [video](链接)
 
 
 
@@ -79,8 +79,7 @@
 
 ![demo image](Image/f5.png)
 
-### 6、[BroadFace: Looking at Tens of Thousands of People at Once for Face Recognition](https://arxiv.org/abs/2008.06674
-)
+### 6、[BroadFace: Looking at Tens of Thousands of People at Once for Face Recognition](https://arxiv.org/abs/2008.06674)
 
 作者 | Yonghyun Kim, Wonpyo Park, Jongju Shin
 
@@ -90,7 +89,7 @@
 
 ![demo image](Image/f6.png)
 
-## [video](https://v.qq.com/x/page/k3149pd9bkb.html)
+- [video](https://v.qq.com/x/page/k3149pd9bkb.html)
 
 ### 7、[Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf)
 
@@ -260,13 +259,13 @@
 来自华盛顿大学和微软的研究人员在ECCV 2020 论文中，提出一种个性化的人脸建模方法，可以更加精细捕获人脸动态，有效分离人脸模型与运动模型，显著提高人脸三维重建和运动重定向的效果。
 
 
-## [video](https://v.qq.com/x/page/d314931zmkv.html)
+- [video](https://v.qq.com/x/page/d314931zmkv.html)
 
 ![demo image](Image/f20.png)
 
 ### 21、[Self-Supervised Monocular 3D Face Reconstruction by Occlusion-Aware Multi-view Geometry Consistency](https://arxiv.org/abs/2007.12494)
 
-## 单目3D人脸重建
+单目3D人脸重建
 
 作者 | Jiaxiang Shang, Tianwei Shen, Shiwei Li, Lei Zhou, Mingmin Zhen, Tian Fang, Long Quan
 
@@ -276,7 +275,7 @@
 
 备注 | ECCV 2020
 
-## [video](https://v.qq.com/x/page/h3149uesoz9.html)
+- [video](https://v.qq.com/x/page/h3149uesoz9.html)
 
 
 
@@ -308,7 +307,7 @@
 
 ![demo image](Image/f23.png)
 
-## [video](https://v.qq.com/x/page/u31501vg3pb.html)
+- [video](https://v.qq.com/x/page/u31501vg3pb.html)
 
 
 ## 人脸检测
@@ -366,7 +365,7 @@
 
 ![demo image](Image/f27.png)
 
-## [video](https://v.qq.com/x/page/s3149pudg74.html)
+- [video](https://v.qq.com/x/page/s3149pudg74.html)
 
 
 
@@ -381,8 +380,6 @@
 主页 | http://cvlab.cse.msu.edu/project-face-anti.html
 
 备注 | ECCV 2020
-
-![demo image](Image/f.png)
 
 [PC端演示 demo](https://v.qq.com/x/page/r3149jdhucd.html)
 
@@ -401,9 +398,6 @@
 
 ![demo image](Image/f29.png)
 
-[video](链接)
-
-
 
 ### 30、[High Resolution Zero-Shot Domain Adaptation of Synthetically Rendered Face Images](https://arxiv.org/abs/2006.15031)
 
@@ -417,8 +411,6 @@
 
 ![demo image](Image/f30.png)
 
-[video](链接)
-
 
 ## 人脸伪造检测
 ### 31、[Thinking in Frequency: Face Forgery Detection by Mining Frequency-aware Clues]( https://arxiv.org/abs/2007.09355)
@@ -430,9 +422,6 @@
 备注 | ECCV 2020
 
 ![demo image](Image/f31.png)
-
-[video](链接)
-
 
 
 ## 人脸解析
@@ -448,8 +437,6 @@
 备注 | ECCV 2020
 
 ![demo image](Image/f32.png)
-
-[video](链接)
 
 
 ## 人脸正面化
@@ -569,9 +556,6 @@
 
 ![demo image](Image/f41.png)
 
-[video](链接)
-
-
 
 ## 人脸匿名化
 ### 42、[Password-conditioned Anonymization and Deanonymization with Face Identity Transformers](https://arxiv.org/abs/1911.11759)
@@ -596,8 +580,6 @@
 
 ![demo image](Image/f43.png)
 
-[video](链接)
-
 
 ## 语音驱动的人脸动画
 ### 44、[Speech-driven Facial Animation using Cascaded GANs for Learning of Motion and Texture](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750409.pdf)
@@ -610,7 +592,6 @@
 
 ![demo image](Image/f44.png)
 
-[video](链接)
 
 ## 语音驱动人脸重演
 ### 45、[Neural Voice Puppetry: Audio-driven Facial Reenactment](https://arxiv.org/abs/1912.05566)
