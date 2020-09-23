@@ -35,4 +35,6 @@ CV君在论文标题中检索了一些热门技术相关的关键词，并与CVP
 
 ### [ECCV 2020 论文大盘点-人脸技术篇](https://github.com/52CV/ECCV-2020-Papers/blob/master/ECCV2020-Face-Papers.md)
 
+### [ECCV 2020 论文大盘点-目标跟踪篇](https://github.com/52CV/ECCV-2020-Papers/blob/master/ECCV2020-Tracker-Papers.md)
+
 Enjoy！
