@@ -2,6 +2,8 @@
   <img src="Image/52CV.gif" width="600"/>
 </div>
 
+## ECCV 2020 论文大盘点-目标跟踪篇
+
 本文盘点ECCV 2020 所有与跟踪相关的研究，单指目标的跟踪，不涉及人体姿态等点的跟踪，总计19篇文章，其中12篇开源或者将开源。
 
 其中多目标跟踪、单目标跟踪、对抗学习+目标跟踪研究工作较多。其中有已经特别知名的工作，比如来自CenterNet思想延申的 Tracking Objects as Points ，非常值得关注。
@@ -205,57 +207,62 @@ CenterTrack在最新发布的nuScenes 3D跟踪基准上达到了28.3%AMOTA@0.2�
 
 
 
-###
+## 远程眼动跟踪
 
-- [video](链接)
+### 14.[Deep Learning-based Pupil Center Detection for Fast and Accurate Eye Tracking System](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640035.pdf)
 
-![demo image](Image/t.png)
+作者 | Kang Il Lee, Jung Ho Jeon, Byung Cheol Song
 
+单位 | 韩国仁荷大学
 
+备注 | ECCV 2020
 
-###
+所提出的系统不仅在通用计算机环境下可达到52 FPS，而且在BioID、GI4E和Talking Face Video数据集的精细度精度方面分别达到96.71%、99.84%和96.38%。
 
-- [video](链接)
+- [video](https://v.qq.com/x/page/y3152g4y78s.html)
 
-![demo image](Image/t.png)
+![demo image](Image/t14.png)
 
+## 对抗学习+目标跟踪
 
+### 15.[SPARK: Spatial-aware Online Incremental Attack Against Visual Tracking](https://arxiv.org/abs/1910.08681)
 
-###
+作者 | Qing Guo, Xiaofei Xie, Felix Juefei-Xu, Lei Ma, Zhongguo Li, Wanli Xue, Wei Feng, Yang Liu
 
-- [video](链接)
+单位 | 天津大学；南洋理工大学；阿里；Kyushu University；天津理工大学
 
-![demo image](Image/t.png)
+备注 | ECCV 2020
 
-
-
-###
-
-- [video](链接)
-
-![demo image](Image/t.png)
-
-
-###
-
-- [video](链接)
-
-![demo image](Image/t.png)
+![demo image](Image/t15.png)
 
 
 
-###
+### 16.[Efficient Adversarial Attacks for Visual Object Tracking](https://arxiv.org/abs/2008.00217)
 
-- [video](链接)
+作者 | Siyuan Liang, Xingxing Wei, Siyuan Yao, Xiaochun Cao
 
-![demo image](Image/t.png)
+单位 | 中科院；国科大；鹏城实验室；北航
+
+备注 | ECCV 2020
+
+FAN可以在10ms内生成一个对抗性实例，实现有效的针对性攻击（OTB上至少40%的drop rate）和非针对性攻击（OTB上至少70%的drop rate）。
 
 
-###
+![demo image](Image/t16.png)
 
-- [video](链接)
 
-![demo image](Image/t.png)
+
+### 17.[Robust Tracking against Adversarial Attacks](https://arxiv.org/abs/2007.09919)
+
+作者 | Shuai Jia, Chao Ma, Yibing Song, Xiaokang Yang
+
+单位 | 上海交通大学；腾讯AI
+
+代码 | https://github.com/joshuajss/RTAA
+
+备注 | ECCV 2020
+
+![demo image](Image/t17.png)
 
 
 ## 细胞跟踪
