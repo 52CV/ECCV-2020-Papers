@@ -37,4 +37,8 @@ CV君在论文标题中检索了一些热门技术相关的关键词，并与CVP
 
 ### [ECCV 2020 论文大盘点-目标跟踪篇](https://github.com/52CV/ECCV-2020-Papers/blob/master/ECCV2020-Tracker-Papers.md)
 
+### [ECCV 2020 论文大盘点-目标检测篇](https://mp.weixin.qq.com/s/dvue9Kx6UQ5iGE-Z615Tug)
+
+### [ECCV 2020论文大盘点-3D目标检测篇](https://mp.weixin.qq.com/s/BTKKi_1mk6AbmO6xTVANCw)
+
 Enjoy！
