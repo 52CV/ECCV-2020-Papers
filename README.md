@@ -55,4 +55,35 @@ CV君在论文标题中检索了一些热门技术相关的关键词，并与CVP
 
 ### [ECCV 2020 论文大盘点-人体形状与姿态估计篇](https://zhuanlan.zhihu.com/p/260737728)
 
-Enjoy！
+### [ECCV 2020 论文大盘点-6D 位姿估计篇](https://zhuanlan.zhihu.com/p/260787827)
+
+### [ECCV 2020 论文大盘点-智能驾驶篇](https://zhuanlan.zhihu.com/p/260788117)
+
+### [ECCV 2020 论文大盘点-图像分割篇](https://zhuanlan.zhihu.com/p/260788053)
+
+### [ECCV 2020 论文大盘点-语义分割篇](https://zhuanlan.zhihu.com/p/260788240)
+
+### [ECCV 2020 论文大盘点-实例分割篇](https://zhuanlan.zhihu.com/p/260788349)
+
+### [ECCV 2020 论文大盘点-视频目标分割篇](https://zhuanlan.zhihu.com/p/260788430)
+
+### [ECCV 2020 论文大盘点-场景解析篇](https://zhuanlan.zhihu.com/p/263553681)
+
+### [ECCV 2020 论文大盘点-光流篇](https://zhuanlan.zhihu.com/p/263595723)
+
+### [ECCV 2020 论文大盘点-去雾去雨去模糊篇](https://zhuanlan.zhihu.com/p/263637077)
+
+### [ECCV 2020 论文大盘点-图像增强与图像恢复篇](https://zhuanlan.zhihu.com/p/264123976)
+
+### [ECCV 2020 论文大盘点-图像视频修复篇](https://zhuanlan.zhihu.com/p/265081669)
+
+### [ECCV 2020 论文大盘点 - OCR 篇](https://zhuanlan.zhihu.com/p/265282666)
+
+### [ECCV 2020 论文大盘点-动作检测与识别篇](https://zhuanlan.zhihu.com/p/265738931)
+
+### [ECCV 2020 论文大盘点-视频理解与分类篇](https://zhuanlan.zhihu.com/p/265978325)
+
+### [ECCV 2020 论文大盘点-航空影像篇](https://zhuanlan.zhihu.com/p/266252572)
+
+
+### Enjoy！
