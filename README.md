@@ -41,4 +41,18 @@ CV君在论文标题中检索了一些热门技术相关的关键词，并与CVP
 
 ### [ECCV 2020论文大盘点-3D目标检测篇](https://mp.weixin.qq.com/s/BTKKi_1mk6AbmO6xTVANCw)
 
+### [ECCV 2020 论文大盘点-视频目标检测篇](https://zhuanlan.zhihu.com/p/258790731)
+
+### [ECCV 2020论文大盘点-显著目标检测篇](https://zhuanlan.zhihu.com/p/259310604)
+
+### [ECCV 2020 论文大盘点-人员重识别篇](https://zhuanlan.zhihu.com/p/259851543)
+
+### [ECCV 2020 论文大盘点-姿态估计篇](https://zhuanlan.zhihu.com/p/260152782)
+
+### [ECCV 2020 论文大盘点-3D人体姿态估计篇](https://zhuanlan.zhihu.com/p/260449008)
+
+### [ECCV 2020 论文大盘点-手势识别篇](https://zhuanlan.zhihu.com/p/260737618)
+
+### [ECCV 2020 论文大盘点-人体形状与姿态估计篇](https://zhuanlan.zhihu.com/p/260737728)
+
 Enjoy！
